@@ -7,7 +7,8 @@ This is a personal portfolio website built using **HTML** and **basic CSS** to s
 Home Page: Contains my name, role, and a navigation link to the contact page.
 About Me: Brief description highlighting my professional background and passion for web development.
 Interests: List of personal and professional interests, including web development, reading, and photography.
-Projects: Showcases some of the projects I have worked on, such as an **Amazon E-commerce Clone** and a **Travel Website**.
+Projects: Showcases some of the projects I have worked on, such as an 
+          **Amazon E-commerce Clone** and a **Travel Website**.
 Contact Form: A separate page for users to reach out to me, with fields for name, email, and message.
 
 🖋️Tech Stack:
