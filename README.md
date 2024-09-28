@@ -12,8 +12,8 @@ This is a personal portfolio website built using **HTML** and **basic CSS** to s
 
 **Projects**: &nbsp;Showcases some of the projects I have worked on, such as an 
 
-&nbsp;                -Amazon E-commerce Clone  
-                      -Travel Website
+&nbsp;                *Amazon E-commerce Clone  
+                      *Travel Website
         
 **Contact Form**:&nbsp;A separate page for users to reach out to me, with fields for name, email, and message.
 
