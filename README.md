@@ -1,8 +1,8 @@
-Portfolio Website
+# Portfolio Website
 
 This is a personal portfolio website built using **HTML** and **basic CSS** to showcase my skills, interests, and projects. The site is designed to provide a clean and simple user experience, featuring different sections that outline my professional journey.
 
-🔗Key Sections:
+## 🔗Key Sections:
 
 **Home Page**: &nbsp;Contains my name, role, and a navigation link to the contact page.
 
@@ -17,9 +17,10 @@ This is a personal portfolio website built using **HTML** and **basic CSS** to s
         
 **Contact Form**:&nbsp;A separate page for users to reach out to me, with fields for name, email, and message.
 
-**🖋️Tech Stack:**
-            • HTML for structure and content.
-            • CSS for styling and layout.
+## 🖋️Tech Stack:
+
+- HTML 
+- CSS            
 
 **🚀Features:**
 
