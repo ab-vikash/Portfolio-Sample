@@ -4,7 +4,7 @@ This is a personal portfolio website built using **HTML** and **basic CSS** to s
 
 🔗Key Sections:
 
-**Home Page**: &nbsp Contains my name, role, and a navigation link to the contact page.
+**Home Page**: &nbsp; Contains my name, role, and a navigation link to the contact page.
 
 **About Me**:   Brief description highlighting my professional background and passion for web development.
 
