@@ -22,7 +22,7 @@ This is a personal portfolio website built using **HTML** and **basic CSS** to s
 - HTML 
 - CSS            
 
-**🚀Features:**
+## **🚀Features:**
 
 **Responsive Design:** &nbsp;Adaptable layout to ensure a good user experience across devices.
 
